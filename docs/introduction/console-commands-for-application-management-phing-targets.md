@@ -275,6 +275,14 @@ Great tool when you want to translate your application into another language.
 
 For more information about translations, see [the separate article](../introduction/translations.md).
 
+### Production
+
+### environment-change
+Change environment easily by this target. 
+
+It can be handy in production environment, when you need to debug some functionality in production.   
+
+Currently, you can switch to production, development or test enviroment.
 ### For monorepo developers
 
 #### backend-api-install
